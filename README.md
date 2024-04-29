@@ -4,7 +4,7 @@
 ### In this Webiste we are going to learn how to create our own websites
 👍👍👍
 
--[/1] HELLO
+/1 HELLO
 
 
 
