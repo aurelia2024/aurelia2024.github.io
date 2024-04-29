@@ -4,6 +4,9 @@
 ### In this Webiste we are going to learn how to create our own websites
 👍👍👍
 
-- [x] Done
-
+## Checklist:
+- [x] Github account
+- [x] New Repository with accountname.github.io
+- [x] Inserted an image
+- [ ] 
 
