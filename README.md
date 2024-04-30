@@ -4,7 +4,6 @@
 
 
 # Welcome to *My Website*
-👍👍👍
 
 ## Checklist:
 - [x] Github account
