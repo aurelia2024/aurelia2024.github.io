@@ -12,4 +12,4 @@
 - [x] Made a checklist
 - [x] Link to Helloworld webpage
 
-[Helloworld](https://aurelia2024.github.io/Helloworld/)
+[Helloworld Link](https://aurelia2024.github.io/Helloworld/)
