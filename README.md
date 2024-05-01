@@ -12,5 +12,6 @@
 - [x] Made a checklist
 - [x] Link to Helloworld webpage
 - [x] add to index.html of helloworld
+- [x] Add color, font size, font style to Helloworld page
 
 [Helloworld Link](https://aurelia2024.github.io/Helloworld/)
