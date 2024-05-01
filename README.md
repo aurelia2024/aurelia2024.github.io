@@ -11,6 +11,6 @@
 - [x] Inserted an image
 - [x] Made a checklist
 - [x] Link to Helloworld webpage
-- [ ] add to index.html of helloworld
+- [x] add to index.html of helloworld
 
 [Helloworld Link](https://aurelia2024.github.io/Helloworld/)
