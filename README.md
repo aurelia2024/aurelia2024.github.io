@@ -25,4 +25,7 @@
 - [x] Add color, font size, font style to Helloworld page
 
 [Helloworld Link](https://aurelia2024.github.io/Helloworld/)
+
+
+[Rubric Link](https://aurelia2024.github.io/rubric/)
 </html>
