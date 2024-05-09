@@ -1,1 +1,44 @@
+h1{
+  text-align: left;
+  background-color: MistyRose;
+  color: Black;font-family: Brush Script Mt, cursive;font-size:200%;
+  
 
+h2{
+  text-align: center;
+  background-color: LightPink;
+  color: Black;font-family: Brush Script MT, cursive;font-size:400%;
+}
+
+background{
+  background-color: MistyRose;
+}
+
+h3{
+  text-align: left;
+  color: Black; font-family: Trebuchet MS, sans-serif;
+}
+
+  
+h4{
+  text-align: center;
+  color: Black;font-family: Trebuchet MS, sans-serif;
+}
+
+ a:link, a:visited {
+  link-align: center;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: PaleVioletRed;
+}
+
+a{
+  link-align: center;
+  padding: 0px 0px;
+ 
+
+}
