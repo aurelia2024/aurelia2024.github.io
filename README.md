@@ -26,7 +26,7 @@
 
 [Helloworld Link](https://aurelia2024.github.io/Helloworld/)
 
-[1. Page Link](https://aurelia2024.github.io/Page-1/)
+[1. Page](https://aurelia2024.github.io/Page-1/)
 
 [Rubric Link](https://aurelia2024.github.io/rubric/)
 </html>
