@@ -1,4 +1,4 @@
-<html>
+
 
 
   
@@ -8,12 +8,12 @@
 
 
 
-# *Aurelia Kment*
+# Aurelia Kment
 
-![](https://web-assets.cdn.dealersolutions.com.au/modular.multisite.dealer.solutions/wp-content/uploads/sites/2121/2020/01/21072819/Vomo-Island-Fiji-Beach-front.jpg)
+![Alttext](https://web-assets.cdn.dealersolutions.com.au/modular.multisite.dealer.solutions/wp-content/uploads/sites/2121/2020/01/21072819/Vomo-Island-Fiji-Beach-front.jpg)
 
 
-# Welcome to *My Website*
+# Welcome to My Website
 
 ## Checklist:
 - [x] Github account
@@ -29,4 +29,4 @@
 [1. Page](https://aurelia2024.github.io/Page-1/)
 
 [Rubric Link](https://aurelia2024.github.io/rubric/)
-</html>
+
