@@ -1,4 +1,3 @@
-
 h1{
   text-align: left;
   background-color: MistyRose;
@@ -24,5 +23,8 @@ h3{
 h4{
   text-align: center;
   color: Black;font-family: Trebuchet MS, sans-serif;
+}
+body{
+  background-color: Blue;  
 }
 
