@@ -88,6 +88,22 @@ ul{
       right: 20px;
       margin-left: 110px;
 }
+    .paragraph1{
+      color: Black;
+      text-align: left;
+      font-size: 100%;
+      width: 550px;
+      border: 3px White;
+      border-radius: 20px;
+      padding: 30px;
+      background-color: MistyRose;
+      list-style-position: inside;
+      float: right;
+      margin-right: 120px;
+      position: relative;
+      right: 20px;
+      margin-left: 110px;
+    }
 
 button {
   color: Black;
