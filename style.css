@@ -30,7 +30,6 @@ p{
   background-color: MistyRose;
   list-style-position: inside;
   float: left;
-  margin-right: 100px;
   position: relative;
   right: 120px;
   margin-left: 20px;
@@ -71,7 +70,6 @@ ul{
       background-color: MistyRose;
       list-style-position: inside;
       float: left;
-      margin-right: 100px;
       position: relative;
       left: 20px;
       margin-left: 20px;
@@ -87,7 +85,6 @@ ul{
       background-color: MistyRose;
       list-style-position: inside;
       float: left;
-      margin-right: 100px;
       position: relative;
       left: 20px;
       margin-left: 20px;
