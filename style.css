@@ -37,10 +37,10 @@ p{
   background-color: MistyRose;
   list-style-position: inside;
   float: right;
-  margin-right: 90px;
+  margin-right: 120px;
   position: relative;
   left: 20px;
-  margin-left: 140px;
+  margin-left: 110px;
 
 }
 
@@ -55,10 +55,10 @@ ul{
   background-color: MistyRose;
   list-style-position: inside;
   float: right;
-  margin-right: 90px;
+  margin-right: 120px;
   position: relative;
   left: 20px;
-  margin-left: 140px;
+  margin-left: 110px;
 }
   
 .number-links{
@@ -83,10 +83,10 @@ ul{
       background-color: MistyRose;
       list-style-position: inside;
       float: right;
-      margin-right: 90px;
+      margin-right: 120px;
       position: relative;
       right: 20px;
-      margin-left: 140px;
+      margin-left: 110px;
 }
 
 button {
