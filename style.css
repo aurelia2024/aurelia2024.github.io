@@ -40,10 +40,10 @@ ul{
   color: Black;
   text-align: left;
   font-size: 100%;
-  width: 400px;
+  width: 420px;
   border: 3px White;
   border-radius: 10px;
-  padding: 20px;
+  padding: 2px;
   background-color: MistyRose;
   list-style-position: inside;
   float: right;
@@ -63,7 +63,7 @@ ul{
       color: Black;
       text-align: left;
       font-size: 100%;
-      width: 400px;
+      width: 420px;
       border: 3px White;
       border-radius: 10px;
       padding: 20px;
@@ -78,7 +78,7 @@ ul{
       color: Black;
       text-align: left;
       font-size: 100%;
-      width: 400px;
+      width: 420px;
       border: 3px White;
       border-radius: 10px;
       padding: 20px;
