@@ -26,7 +26,13 @@
 
 [Helloworld Link](https://aurelia2024.github.io/Helloworld/)
 
-[1. Page](https://aurelia2024.github.io/Page-1/)
+[Strawberry Shortcake](https://aurelia2024.github.io/Page-1/)
+
+[Raspberry Cake](https://aurelia2024.github.io/Page-2/)
+
+[Blueberry Cheesecake](https://aurelia2024.github.io/page-4/)
+
+[Peach Streusel Muffins](https://aurelia2024.github.io/page-4/)
 
 [Rubric Link](https://aurelia2024.github.io/rubric/)
 
