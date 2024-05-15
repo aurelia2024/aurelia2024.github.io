@@ -22,7 +22,8 @@ background{
 h4{
   color: Black; 
   font-family: Trebuchet MS, sans-serif;
-  margin-left: 20px;
+  margin-left: 50px;
+  float: left;
 }
 
   
@@ -39,7 +40,7 @@ p{
   float: right;
   margin-right: 120px;
   position: relative;
-  left: 20px;
+  right: 120px;
   margin-left: 110px;
 
 }
@@ -57,7 +58,7 @@ ul{
   float: right;
   margin-right: 120px;
   position: relative;
-  left: 20px;
+  right: 120px;
   margin-left: 110px;
 }
   
@@ -85,7 +86,7 @@ ul{
       float: right;
       margin-right: 120px;
       position: relative;
-      right: 20px;
+      right: 120px;
       margin-left: 110px;
 }
     .paragraph1{
@@ -98,13 +99,14 @@ ul{
       padding: 30px;
       background-color: MistyRose;
       list-style-position: inside;
-      float: right;
-      margin-right: 120px;
+      float: left;
+      margin-right: 30px;
       position: relative;
-      right: 20px;
-      margin-left: 110px;
+      left: 50px;
+      margin-left: 50px;
     }
 
+    
 button {
   color: Black;
   background-color: LightPink;
