@@ -14,7 +14,7 @@ p{
   color: Black;
   text-align: left;
   font-size: 100%;
-  width: 100%;
+  width: 435px;
   border: 3px White;
   border-radius: 10px;
   padding: 20px;
@@ -22,11 +22,9 @@ p{
   list-style-position: inside;
   float: left;
   position: relative;
-  right: 120px;
+  left: 20px;
   margin-left: 20px;
-  margin-right: 120px;
-  
-
+  margin-right: 110px;
 }
 
 ul{
@@ -57,7 +55,7 @@ ul{
       color: Black;
       text-align: left;
       font-size: 100%;
-      width: 100%;
+      width: 435px;
       border: 3px White;
       border-radius: 10px;
       padding: 20px;
