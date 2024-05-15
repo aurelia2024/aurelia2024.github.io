@@ -23,7 +23,7 @@ p{
   color: Black;
   text-align: left;
   font-size: 100%;
-  width: 350px;
+  width: 420px;
   border: 3px White;
   border-radius: 10px;
   padding: 20px;
@@ -33,6 +33,7 @@ p{
   position: relative;
   right: 120px;
   margin-left: 20px;
+  
 
 }
 
@@ -43,7 +44,7 @@ ul{
   width: 420px;
   border: 3px White;
   border-radius: 10px;
-  padding: 2px;
+  padding: 20px;
   background-color: MistyRose;
   list-style-position: inside;
   float: right;
