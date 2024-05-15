@@ -29,11 +29,11 @@ p{
   padding: 30px;
   background-color: MistyRose;
   list-style-position: inside;
-  float: right;
+  float: left;
   margin-right: 120px;
   position: relative;
   right: 120px;
-  margin-left: 110px;
+  margin-left: 20px;
 
 }
 
