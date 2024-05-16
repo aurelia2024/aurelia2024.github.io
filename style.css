@@ -10,22 +10,6 @@ background{
   background-color: MistyRose;
 }
   
-p{
-  color: Black;
-  text-align: left;
-  font-size: 100%;
-  width: 435px;
-  border: 3px White;
-  border-radius: 10px;
-  padding: 10px;
-  background-color: MistyRose;
-  list-style-position: inside;
-  float: left;
-  position: relative;
-  left: 20px;
-  margin-left: 20px;
-  margin-right: 110px;
-}
 
 ul{
   color: Black;
