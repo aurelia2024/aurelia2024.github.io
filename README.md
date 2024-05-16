@@ -14,6 +14,8 @@
 
 
 # Summer Kitchen #
+<p> Get maximum enjoyment from those in-season fruit recipes like this popular Peach Streusel Muffins, my favorite Chocolate cake, and of course,  homemade strawberry shortcake! For all of the wonderful recipes, click on the links below:
+</p>
 
 [Strawberry Shortcake](https://aurelia2024.github.io/Page-1/)
 
