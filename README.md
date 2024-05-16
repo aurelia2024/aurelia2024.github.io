@@ -32,9 +32,15 @@
 
 [Blueberry Cheesecake](https://aurelia2024.github.io/page-3/)
 
-[Chocolate Zucchini Cake](https://aurelia2024.github.io/page-5/)
-
 [Peach Streusel Muffins](https://aurelia2024.github.io/page-4/)
+
+[Chocolate Cake](https://aurelia2024.github.io/page-5/)
+
+[S’mores Chocolate Chip Cookies](https://aurelia2024.github.io/page-6/)
+
+[Strawberry Cake](https://aurelia2024.github.io/page-7/) 
+
+[Strawberry Biscuits](https://aurelia2024.github.io/page-8/)
 
 [Rubric Link](https://aurelia2024.github.io/rubric/)
 
