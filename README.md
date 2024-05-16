@@ -10,7 +10,7 @@
 
 # Aurelia Kment
 
-![Alttext](https://sallysbakingaddiction.com/wp-content/uploads/2022/04/strawberry-shortcake-whipped-cream-biscuits.jpg)
+![Alttext](https://images.immediate.co.uk/production/volatile/sites/30/2022/05/Raspberry-cake-92db1a0.jpg?quality=90&webp=true&resize=300,272)
 
 
 # Summer Kitchen #
