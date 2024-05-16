@@ -10,10 +10,10 @@
 
 # Aurelia Kment
 
-![Alttext](https://web-assets.cdn.dealersolutions.com.au/modular.multisite.dealer.solutions/wp-content/uploads/sites/2121/2020/01/21072819/Vomo-Island-Fiji-Beach-front.jpg)
+![Alttext](https://images.immediate.co.uk/production/volatile/sites/30/2022/05/Raspberry-cake-92db1a0.jpg?quality=90&webp=true&resize=375,341)
 
 
-# Welcome to My Website
+# Summer Kitchen #
 
 ## Checklist:
 - [x] Github account
@@ -23,8 +23,7 @@
 - [x] Link to Helloworld webpage
 - [x] add to index.html of helloworld
 - [x] Add color, font size, font style to Helloworld page
-
-[Helloworld Link](https://aurelia2024.github.io/Helloworld/)
+- [ ] 
 
 [Strawberry Shortcake](https://aurelia2024.github.io/Page-1/)
 
@@ -43,4 +42,6 @@
 [Strawberry Biscuits](https://aurelia2024.github.io/page-8/)
 
 [Rubric Link](https://aurelia2024.github.io/rubric/)
+
+[Helloworld Link](https://aurelia2024.github.io/Helloworld/)
 
